@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.5702bc49.css",
+    "main.js": "/shopping-cart/static/js/main.9eb09bff.js",
+    "static/media/jewelry.jpg": "/shopping-cart/static/media/jewelry.87d9b5db638712869722.jpg",
+    "static/media/Women-Apparel.jpg": "/shopping-cart/static/media/Women-Apparel.ada021b8e0fb0f7d4da0.jpg",
+    "static/media/electronics.jpg": "/shopping-cart/static/media/electronics.d62a38c0bfa27a4c21d8.jpg",
+    "static/media/mens_clothing.jpg": "/shopping-cart/static/media/mens_clothing.09d9dd37b03cd92ac0ae.jpg",
+    "index.html": "/shopping-cart/index.html",
+    "main.5702bc49.css.map": "/shopping-cart/static/css/main.5702bc49.css.map",
+    "main.9eb09bff.js.map": "/shopping-cart/static/js/main.9eb09bff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5702bc49.css",
+    "static/js/main.9eb09bff.js"
+  ]
+}
